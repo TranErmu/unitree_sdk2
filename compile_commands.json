@@ -1,0 +1,332 @@
+[
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/helloworld",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/test_subscriber.dir/subscriber.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/subscriber.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/subscriber.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/helloworld",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/test_subscriber.dir/HelloWorldData.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/HelloWorldData.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/HelloWorldData.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/helloworld",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/test_publisher.dir/publisher.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/publisher.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/publisher.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/helloworld",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/test_publisher.dir/HelloWorldData.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/HelloWorldData.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/helloworld/HelloWorldData.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/wireless_controller",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/advanced_gamepad.dir/main.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/wireless_controller/main.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/wireless_controller/main.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/jsonize",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/test_jsonize.dir/test_jsonize.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/jsonize/test_jsonize.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/jsonize/test_jsonize.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/state_machine",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/state_machine_example.dir/main.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/state_machine/main.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/state_machine/main.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2_video_client.dir/go2_video_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_video_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_video_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2_robot_state_client.dir/go2_robot_state_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_robot_state_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_robot_state_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2_stand_example.dir/go2_stand_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_stand_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_stand_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2_low_level.dir/go2_low_level.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_low_level.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_low_level.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2_vui_client.dir/go2_vui_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_vui_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_vui_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2_sport_client.dir/go2_sport_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_sport_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2/go2_sport_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/b2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/b2_stand_example.dir/b2_stand_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2/b2_stand_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2/b2_stand_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/b2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/b2_sport_client.dir/b2_sport_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2/b2_sport_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2/b2_sport_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h1_2_arm_sdk_dds_example.dir/high_level/h1_2_arm_sdk_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/high_level/h1_2_arm_sdk_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/high_level/h1_2_arm_sdk_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h1_arm_sdk_dds_example.dir/high_level/h1_arm_sdk_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/high_level/h1_arm_sdk_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/high_level/h1_arm_sdk_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h1_2_ankle_track.dir/low_level/h1_2_ankle_track.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/low_level/h1_2_ankle_track.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/low_level/h1_2_ankle_track.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h1_27dof_example.dir/low_level/h1_27dof_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/low_level/h1_27dof_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/low_level/h1_27dof_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h1_low_level_example.dir/low_level/humanoid.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/low_level/humanoid.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/low_level/humanoid.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h1_loco_client.dir/high_level/h1_loco_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/high_level/h1_loco_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h1/high_level/h1_loco_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_hand_sdk_example.dir/high_level/g1_hand_sdk_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_hand_sdk_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_hand_sdk_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1d_waist_example.dir/g1d/g1d_waist_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1d_waist_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1d_waist_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_arm7_sdk_dds_example.dir/high_level/g1_arm7_sdk_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_arm7_sdk_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_arm7_sdk_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_loco_client.dir/high_level/g1_loco_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_loco_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_loco_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_arm5_sdk_dds_example.dir/high_level/g1_arm5_sdk_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_arm5_sdk_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_arm5_sdk_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_ankle_swing_example.dir/low_level/g1_ankle_swing_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/low_level/g1_ankle_swing_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/low_level/g1_ankle_swing_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_dex3_example.dir/dex3/g1_dex3_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/dex3/g1_dex3_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/dex3/g1_dex3_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_agv_client_example.dir/g1d/g1_agv_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1_agv_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1_agv_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1d_height_control.dir/g1d/g1d_height_control.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1d_height_control.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1d_height_control.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_audio_client_example.dir/audio/g1_audio_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/audio/g1_audio_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/audio/g1_audio_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_userctrl_dds_example.dir/high_level/g1_userctrl_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_userctrl_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_userctrl_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_termination.dir/low_level/terminations.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/low_level/terminations.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/low_level/terminations.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_arm_action_example.dir/high_level/g1_arm_action_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_arm_action_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/high_level/g1_arm_action_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++  -DBLIB_DIR=\\\"/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/low_level/behavior_lib/\\\" -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1_dual_arm_example.dir/low_level/g1_dual_arm_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/low_level/g1_dual_arm_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/low_level/g1_dual_arm_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/g1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/g1d_arm_example.dir/g1d/g1d_arm_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1d_arm_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/g1/g1d/g1d_arm_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2w",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2w_stand_example.dir/go2w_stand_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2w/go2w_stand_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2w/go2w_stand_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/go2w",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/go2w_sport_client.dir/go2w_sport_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2w/go2w_sport_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/go2w/go2w_sport_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/b2w",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/b2w_stand_example.dir/b2w_stand_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2w/b2w_stand_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2w/b2w_stand_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/b2w",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/b2w_sport_client.dir/b2w_sport_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2w/b2w_sport_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/b2w/b2w_sport_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/a2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/a2_audio_client_example.dir/audio/a2_audio_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/a2/audio/a2_audio_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/a2/audio/a2_audio_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/a2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/a2_sport_state.dir/sport/a2_sport_state.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/a2/sport/a2_sport_state.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/a2/sport/a2_sport_state.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/a2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/a2_sport_client.dir/sport/a2_sport_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/a2/sport/a2_sport_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/a2/sport/a2_sport_client.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/r1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/r1_A7_wrist_swing_example.dir/low_level/r1_A7_wrist_swing_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/low_level/r1_A7_wrist_swing_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/low_level/r1_A7_wrist_swing_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/r1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/r1_A5_wrist_swing_example.dir/low_level/r1_A5_wrist_swing_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/low_level/r1_A5_wrist_swing_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/low_level/r1_A5_wrist_swing_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/r1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/r1_audio_client_example.dir/audio/r1_audio_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/audio/r1_audio_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/audio/r1_audio_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/r1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/r1_arm_action_example.dir/high_level/r1_arm_action_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/high_level/r1_arm_action_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/high_level/r1_arm_action_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/r1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/r1_arm_sdk_dds_example.dir/high_level/r1_arm_sdk_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/high_level/r1_arm_sdk_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/high_level/r1_arm_sdk_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/r1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/r1_ankle_swing_example.dir/low_level/r1_ankle_swing_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/low_level/r1_ankle_swing_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/low_level/r1_ankle_swing_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/r1",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/r1_loco_client.dir/high_level/r1_loco_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/high_level/r1_loco_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/r1/high_level/r1_loco_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2_arm_action_example.dir/high_level/h2_arm_action_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/high_level/h2_arm_action_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/high_level/h2_arm_action_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2_termination.dir/low_level/terminations.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/low_level/terminations.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/low_level/terminations.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2",
+  "command": "/usr/bin/c++  -DH2_DUAL_ARM_BEHAVIOR_DIR=\\\"/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/low_level/behavior_lib/\\\" -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2_dual_arm_example.dir/low_level/h2_dual_arm_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/low_level/h2_dual_arm_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/low_level/h2_dual_arm_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2_ankle_swing_example.dir/low_level/h2_ankle_swing_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/low_level/h2_ankle_swing_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/low_level/h2_ankle_swing_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2_arm_sdk_dds_example.dir/high_level/h2_arm_sdk_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/high_level/h2_arm_sdk_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/high_level/h2_arm_sdk_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2_loco_client.dir/high_level/h2_loco_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/high_level/h2_loco_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2/high_level/h2_loco_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2x",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2x_arm_sdk_dds_example.dir/high_level/h2x_arm_sdk_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_arm_sdk_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_arm_sdk_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2x",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2x_ankle_swing_example.dir/low_level/h2x_ankle_swing_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/low_level/h2x_ankle_swing_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/low_level/h2x_ankle_swing_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2x",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2x_userctrl_dds_example.dir/high_level/h2x_userctrl_dds_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_userctrl_dds_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_userctrl_dds_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2x",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2x_arm_action_example.dir/high_level/h2x_arm_action_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_arm_action_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_arm_action_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2x",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2x_loco_client.dir/high_level/h2x_loco_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_loco_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/high_level/h2x_loco_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2x",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx -isystem /usr/include/eigen3  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2x_termination.dir/low_level/terminations.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/low_level/terminations.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/low_level/terminations.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/h2x",
+  "command": "/usr/bin/c++  -DH2X_DUAL_ARM_BEHAVIOR_DIR=\\\"/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/low_level/behavior_lib/\\\" -I/usr/lib/x86_64-linux-gnu/cmake/yaml-cpp/../../../../../include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/h2x_dual_arm_example.dir/low_level/h2x_dual_arm_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/low_level/h2x_dual_arm_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/h2x/low_level/h2x_dual_arm_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/as2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/as2_audio_client_example.dir/audio/as2_audio_client_example.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/as2/audio/as2_audio_client_example.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/as2/audio/as2_audio_client_example.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/as2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/as2_sport_state.dir/sport/as2_sport_state.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/as2/sport/as2_sport_state.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/as2/sport/as2_sport_state.cpp"
+},
+{
+  "directory": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/build/x86_64/example/as2",
+  "command": "/usr/bin/c++   -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include -isystem /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/thirdparty/include/ddscxx  -O3 -DNDEBUG   -std=c++17 -o CMakeFiles/as2_sport_client.dir/sport/as2_sport_client.cpp.o -c /home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/as2/sport/as2_sport_client.cpp",
+  "file": "/home/hql/unitree-dev/unitreerobotics/unitree_sdk2/.worktrees/h2x/example/as2/sport/as2_sport_client.cpp"
+}
+]
